@@ -9,6 +9,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home" />
+        </SOURCES>
+        <jarDirectory url="file:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
-
